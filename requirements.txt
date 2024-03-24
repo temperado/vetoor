@@ -1,0 +1,32 @@
+# requirements.txt
+
+# Core dependencies
+numpy
+pillow
+progressbar
+scipy
+tqdm
+pygments
+rich
+colour
+pycairo
+manimpango>=0.2.3
+mapbox-earcut
+
+# Optional dependencies
+matplotlib
+PIL
+cairosvg
+networkx
+pydub
+pyyaml
+numpydoc
+sphinx
+sphinx_rtd_theme
+sphinx-copybutton
+m2r2
+pangocffi==0.6
+pangocairocffi
+
+# Manim itself
+manim

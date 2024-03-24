@@ -1,0 +1,17 @@
+# .gitignore
+
+# Ignore Python build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Ignore virtual environment
+env/
+
+# Ignore media files
+media/
+
+# Ignore macOS system files
+.DS_Store

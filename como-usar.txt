@@ -1,0 +1,11 @@
+instala manim, (é chato msm instalar)
+se der erro é pq nn instalou direito,
+aí instala os requirements.txt pq tem
+umas lib que o manim prcisa pra rodar
+
+nao adianta rodar o main.py, usa o comando:
+
+manim -p -ql -main.py roda60
+
+seja feliz
+meu ig: @lpasseado
